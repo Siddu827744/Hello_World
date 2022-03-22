@@ -6,5 +6,7 @@ void main()
 int a=5;
 int b=4;
 c=a+b;
+d=a-b;
 printf("c");
+printf("d");
 }
